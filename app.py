@@ -2,7 +2,7 @@ import streamlit as st
 
 def main():
 	"""Streamlit Quick Reference App 
-	 For Easy Reference
+	 For Easy Reference and Quick Ref
 
 	 """
 
@@ -244,12 +244,12 @@ def main():
 		st.image(img,width=300,caption='Streamlit Images')
 
 		# Videos
-		video_file = open("example.mp4",'rb')
-		video_bytes = video_file.read()
-		st.video(video_bytes)
+		# video_file = open("example.mp4",'rb')
+		# video_bytes = video_file.read()
+		# st.video(video_bytes)
 
 		# Audio
-		# audio_file = open("",'rb')
+		# audio_file = open("example.mp3",'rb')
 		# audio_bytes = audio_file.read()
 		# st.audio(audio_bytes,format='audio/mp3')
 
