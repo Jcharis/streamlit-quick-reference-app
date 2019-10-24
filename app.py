@@ -1,7 +1,10 @@
 import streamlit as st
 
 def main():
-	"""Streamlit Quick Reference App """
+	"""Streamlit Quick Reference App 
+	 For Easy Reference
+
+	 """
 
 	raw_code_text = """
 	# Title
