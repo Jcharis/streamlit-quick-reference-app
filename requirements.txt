@@ -24,7 +24,7 @@ more-itertools==7.2.0
 numpy==1.17.3
 pandas==0.25.2
 pathtools==0.1.2
-Pillow==6.2.1
+Pillow==8.3.2
 protobuf==3.10.0
 pyrsistent==0.15.4
 python-dateutil==2.8.0
