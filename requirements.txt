@@ -21,7 +21,7 @@ jmespath==0.9.4
 jsonschema==3.1.1
 MarkupSafe==1.1.1
 more-itertools==7.2.0
-numpy==1.17.3
+numpy==1.22.0
 pandas==0.25.2
 pathtools==0.1.2
 Pillow==6.2.1
